@@ -44,6 +44,7 @@ This project is a stock market prediction application built using Python. It lev
     ```
 2. Enter a stock symbol (e.g., `GOOG`) to retrieve and display the stock data.
 3. The application will show various visualizations, including moving averages and a comparison between actual and predicted prices.
+4. Note: My code is set to display data from 2015-01-01 to 2023-12-31.
 
 ## Model
 
@@ -52,7 +53,10 @@ The model used in this project is a pre-trained neural network saved in the file
 
 <img width="1254" alt="Screenshot 2024-07-31 at 4 34 33 AM" src="https://github.com/user-attachments/assets/b97b5764-c7dd-4d44-8e70-8d3891dff3af">
 
+
+
 <img width="1116" alt="Screenshot 2024-07-31 at 4 35 04 AM" src="https://github.com/user-attachments/assets/762495b7-b303-4180-927f-dae65f6baf25">
+
 
 ## Contributing
 
