@@ -57,6 +57,7 @@ The model used in this project is a pre-trained neural network saved in the file
 
 <img width="1116" alt="Screenshot 2024-07-31 at 4 35 04 AM" src="https://github.com/user-attachments/assets/762495b7-b303-4180-927f-dae65f6baf25">
 
+Mistake: The Green is Orginal Closing Price, the red if the Predicted Price.
 
 ## Contributing
 
