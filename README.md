@@ -73,6 +73,3 @@ Note: I used resources such as YouTube tutorials to help me with this project.
 
 Special thanks to the developers of the libraries used in this project.
 
----
-
-Feel free to modify this draft to better suit your project's specifics, especially the description, usage instructions, and any additional features or details.
