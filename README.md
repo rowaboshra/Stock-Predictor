@@ -63,11 +63,6 @@ Mistake: The Green is Orginal Closing Price, the red if the Predicted Price.
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Note: I used resources such as YouTube tutorials to help me with this project.
 
 ## Acknowledgements
 
